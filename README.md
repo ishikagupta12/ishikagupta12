@@ -3,11 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ishikagupta12&label=Profile%20views&color=0e75b6&style=flat" alt="ishikagupta12" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ishikagupta12" alt="ishikagupta12" /></a> </p>
-
 - 🔭 I’m currently working on : **games made via HTML and CSS**
 
-- 🌱 I’m currently learning : **Java , GITHUB , COMPETITIVE PROGRAMMING**
+- 🌱 I’m currently learning : **Java , GIT , COMPETITIVE PROGRAMMING**
 
 - 📫 How to reach me : **ishika1209@gmail.com**
 
