@@ -1,3 +1,13 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+         "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="https://mir-s3-cdn-cf.behance.net/project_modules/disp/64606986881607.5da714d2001f6.gif" xml:lang="en" lang="en">
+	<head>
+	</head>
+	<body>
+		<h1>Welcome!</h1>
+	</body>
+</html>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/2646423/screenshots/5507196/computer.gif">
 <h1 align="center">Hi 👋, I'm Ishika Gupta</h1>
 <h3 align="center">A CSE student who loves to explore new things</h3>
