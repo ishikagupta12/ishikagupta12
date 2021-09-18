@@ -1,3 +1,8 @@
+
+
+<p align="left"><img src="https://komarev.com/ghpvc/?username=ishikagupta12" alt="ishikagupta" /></p>
+<img align="right" alt="Coding" width="400" src="https://dribbble.com/shots/12049681-saturday-mood">
+
 <h1 align="center">Hi 👋, I'm Ishika Gupta</h1>
 <h3 align="center">A CSE student who loves to explore new things</h3>
 
