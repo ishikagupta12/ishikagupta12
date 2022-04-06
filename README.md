@@ -1,3 +1,4 @@
+
 <?xml version="1.0" encoding="iso-8859-1"?>
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
          "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
@@ -14,13 +15,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ishikagupta12&label=Profile%20views&color=0e75b6&style=flat" alt="ishikagupta12" /> </p>
 
-- 🔭 I’m currently working on : **games made via HTML and CSS**
-
-- 🌱 I’m currently learning : **Java , GIT , COMPETITIVE PROGRAMMING**
-
 - 📫 How to reach me : **ishika1209@gmail.com**
 
-- ⚡ Fun fact : **I think I can paint XD**
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
